@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "If you have knowledge, let others light their candles at it." - Margaret Fuller
+subtitle:"If you have knowledge, let others light their candles at it. - Margaret Fuller
 
 profile:
   align: left
