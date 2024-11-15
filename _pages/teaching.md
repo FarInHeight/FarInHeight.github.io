@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses I have collaborated on
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Part-time collaboration for teaching assistance 2024-2025:
+- [Advanced Machine Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01URWOV&p_a_acc=2025&p_header=S&p_lang=&multi=N)
+- [Data analysis and Artificial Intelligence](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01USPLO&p_a_acc=2025&p_header=S&p_lang=&multi=N)
