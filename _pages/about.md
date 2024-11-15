@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Davide Sferrazza 💡, a MSc student in AI & Data Analytics @ PoliTo. \
-I'm currently working on my MSc Thesis under the supervision of Professor Carlo Masone at the ELLIS Unit in Turin directed by Professor Tatiana Tommasi. \
+Hi, I'm Davide Sferrazza 💡, a *MSc student* in [AI and Data Analytics](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_coorte=2023&p_sdu=37&p_cds=18&p_ori=13087) @ [PoliTo](https://www.polito.it/en/). \
+I'm currently working on my MSc Thesis under the supervision of Professor [Carlo Masone](https://cmas1.github.io/) at the [ELLIS Unit in Turin](https://ellis.eu/units/turin) directed by Professor [Tatiana Tommasi](http://www.tatianatommasi.com/). \
 My work focuses on the application of Latent Diffusion Models for the Visual Place Recognition task and the application of uncertainty estimation techniques to enhance the models' robustness.
 
 I am intrigued by the multifaceted aspects of Artificial Intelligence. However, I am especially drawn to the intersection of Explainable AI and Robust, Trustworthy AI within the field of Computer Vision. I believe that these combined areas are essential for the responsible development and deployment of AI technologies, taking into account both ethical considerations and performance metrics. \
