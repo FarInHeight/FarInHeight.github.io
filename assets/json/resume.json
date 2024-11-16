@@ -19,6 +19,18 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Part-time collaboration for teaching assistance",
+      "position": "Teaching assistant for laboratories",
+      "url": "https://www.polito.it/en",
+      "location": "Polytechnic University of Turin",
+      "startDate": "2024-09-23",
+      "endDate": "2025-01-10",
+      "summary": "Teaching assistance in the laboratories for Professor Tatiana Tommasi's courses: 'Advanced Machine Learning' and 'Data analysis and Artificial Intelligence'",
+      "highlights": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Data Analysis"]
+    }
+  ],
   "education": [
     {
       "institution": "Polytechnic University of Turin",
@@ -93,7 +105,7 @@
       "date": "06-29-2019",
       "awarder": "MIUR - Ministero dell'Istruzione e del Merito",
       "url": "https://www.indire.it/eccellenze/",
-      "summary": "National Roll of Graduates with 100 cum laude'"
+      "summary": "National Roll of Graduates with 100 cum laude"
     }
   ],
   "certificates": [
@@ -112,7 +124,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Office Suite"
+        "Office Automation"
       ]
     },
     {
@@ -120,7 +132,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Presentation Software"
+        "Office Automation"
       ]
     },
     {
@@ -128,7 +140,7 @@
       "level": "Advanced",
       "icon": "",
       "keywords": [
-        "Spreadsheets"
+        "Office Automation"
       ]
     },
     {
@@ -136,7 +148,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Web Browser"
+        "Office Automation"
       ]
     },
     {
@@ -144,7 +156,7 @@
       "level": "Advanced",
       "icon": "",
       "keywords": [
-        "Word Processors"
+        "Office Automation"
       ]
     },
     {
@@ -152,7 +164,7 @@
       "level": "Intermediate",
       "icon": "",
       "keywords": [
-        "CAD - Assisted Design"
+        "Application Software"
       ]
     },
     {
@@ -160,7 +172,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "CSS"
+        "Markup Language"
       ]
     },
     {
@@ -168,7 +180,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "HTML"
+        "Markup Language"
       ]
     },
     {
@@ -176,7 +188,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "LaTeX"
+        "Markup Language"
       ]
     },
     {
@@ -184,7 +196,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Markdown"
+        "Markup Language"
       ]
     },
     {
@@ -192,7 +204,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "C"
+        "Programming Language"
       ]
     },
     {
@@ -200,7 +212,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Java"
+        "Programming Language"
       ]
     },
     {
@@ -208,7 +220,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Forth"
+        "Programming Language"
       ]
     },
     {
@@ -216,7 +228,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "JavaScript"
+        "Programming Language"
       ]
     },
     {
@@ -224,7 +236,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "MATLAB"
+        "Programming Language"
       ]
     },
     {
@@ -232,7 +244,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Prolog"
+        "Programming Language"
       ]
     },
     {
@@ -240,7 +252,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Python"
+        "Programming Language"
       ]
     },
     {
@@ -248,7 +260,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Rust"
+        "Programming Language"
       ]
     },
     {
@@ -256,7 +268,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "SQL"
+        "Query Language"
       ]
     },
     {
@@ -272,7 +284,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Network Architecture"
+        "Systems and Network Management"
       ]
     },
     {
@@ -280,7 +292,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "Operating Systems"
+        "Systems and Network Management"
       ]
     },
     {
@@ -288,7 +300,7 @@
       "level": "Highly Specialised",
       "icon": "",
       "keywords": [
-        "DBMS"
+        "Data Management"
       ]
     },
     {
