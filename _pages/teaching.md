@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Teaching 📚
 description: Courses I have collaborated on
 nav: true
 nav_order: 6
