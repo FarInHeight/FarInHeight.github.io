@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 4
 
 github_repos:
+  - FarInHeight/To-Match-or-Not-to-Match
   - FarInHeight/Emergency-Backup-Project
   - FarInHeight/Computational-Intelligence-Project
   - FarInHeight/Real-Time-Anomaly-Segmentation-for-Road-Scenes
