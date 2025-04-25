@@ -118,6 +118,15 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
+  "publications": [
+    {
+      "name": "To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition",
+      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+      "releaseDate": "2025-04-08",
+      "url": "https://arxiv.org/abs/2504.06116",
+      "summary": "Visual Place Recognition (VPR) is a critical task in computer vision, traditionally enhanced by re-ranking retrieval results with image matching. However, recent advancements in VPR methods have significantly improved performance, challenging the necessity of re-ranking. In this work, we show that modern retrieval systems often reach a point where re-ranking can degrade results, as current VPR datasets are largely saturated. We propose using image matching as a verification step to assess retrieval confidence, demonstrating that inlier counts can reliably predict when re-ranking is beneficial. Our findings shift the paradigm of retrieval pipelines, offering insights for more robust and adaptive VPR systems."
+    }
+  ],
   "skills": [
     {
       "name": "Office Suite",
