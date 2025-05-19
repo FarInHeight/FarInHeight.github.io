@@ -1,17 +1,11 @@
 ---
-layout: page
+layout: quotes
 title: Quotes ❝…❞
 permalink: /quotes/
 nav: true
 nav_order: 6
 description: Some of my favourite quotes
-_styles: >
-  .quotes {
-    font-size: 30%;
-  }
 ---
-
-<div class="quotes">
 
 >  Only a life lived for others is a life worthwhile.
 >
@@ -36,5 +30,3 @@ _styles: >
 > If you have knowledge, let others light their candles at it.
 >
 > -- _Margaret Fuller_
-
-</div>
