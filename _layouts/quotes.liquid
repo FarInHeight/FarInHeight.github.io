@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-{% if quotes._styles %}
+{% if page._styles %}
   <!-- Page/Post style -->
   <style type="text/css">
-    {{ quotes._styles }}
+    {{ page._styles }}
   </style>
 {% endif %}
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ quotes.title }}</h1>
-    <p class="post-description">{{ quotes.description }}</p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
   </header>
 
   <article style="font-size: 50%;">
