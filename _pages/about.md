@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Davide Sferrazza 💡, a newly graduated **MSc student** in [AI and Data Analytics](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_coorte=2023&p_sdu=37&p_cds=18&p_ori=13087) @ [PoliTo](https://www.polito.it/en/).\
+Hi, I'm Davide Sferrazza <img src="assets/img/icons8-light.gif" alt="Light"/>, a newly graduated **MSc student** in [AI and Data Analytics](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_coorte=2023&p_sdu=37&p_cds=18&p_ori=13087) @ [PoliTo](https://www.polito.it/en/).\
 Currently, I have just finished working on my Master’s thesis titled **_Understanding and Enhancing Visual Place Recognition through Embedding Space Interpretability and Uncertainty Estimation_** under the supervision of Professor [Carlo Masone](https://cmas1.github.io/) at the [ELLIS Unit in Turin](https://ellis.eu/units/turin) directed by Professor [Tatiana Tommasi](http://www.tatianatommasi.com/). \
 My work focuses on the application of Latent Diffusion Models for the Visual Place Recognition task and the application of uncertainty estimation techniques to enhance the models' robustness.
 
