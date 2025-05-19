@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching 📚
 description: Courses I have collaborated on
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 Part-time collaboration for teaching assistance 2024-2025:
