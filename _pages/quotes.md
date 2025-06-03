@@ -8,10 +8,12 @@ description: Some of my favourite quotes
 ---
 
 > But there is one question I would like to answer: What is a number, that a man may know it, and a man, that he may know a number?
+>
 > -- _Warren Sturgis McCulloch_
 
 
 > You ask me if an ordinary person--by studying hard--would get to be able to imagine these things like I imagine. Of course. I was an ordinary person who studied hard. There's no miracle people. It just happens they got interested in this thing, and they learned all this stuff. They're just people. There's no talent or special miracle ability to understand quantum mechanics or a miracle ability to imagine electromagnetic fields that comes without practice and reading and learning and study. So if you take an ordinary person who's willing to devote a great deal of time and study and work and thinking and mathematics, then he's become a scientist.
+>
 > -- _Richard Phillips Feynman_
 
 > It would not be much of a universe if it wasn’t home to the people you love.
