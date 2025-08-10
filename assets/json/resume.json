@@ -120,6 +120,13 @@
   ],
   "certificates": [
     {
+      "name": "CISPA Summer School 2025 - Trustworthy AI",
+      "date": "August 4-8, 2025",
+      "issuer": "CISPA - Helmholtz Center for Information Security, Saarbruecken, Germany",
+      "url": "https://cispa.de/summer-school-2025",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "TOEFL iBT",
       "date": "08-09-2023",
       "issuer": "ETS",
